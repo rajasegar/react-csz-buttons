@@ -1,4 +1,9 @@
-# New Project
+# react-csz-buttons
+
+React button components using csz for styling.
+
+Based on this tutorial
+https://medium.com/styled-components/getting-sassy-with-sass-styled-theme-9a375cfb78e8
 
 > ✨ Bootstrapped with Create Snowpack App (CSA).
 
